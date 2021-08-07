@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/06 23:57:11.000.047,=rtl.dcp</Transaction>
+    <Transaction>2021/08/06 23:58:40.000.673,C:\Users\Coliseu Dell\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Coliseu Dell\Documents\Embarcadero\Studio\Projects\spComponente.dproj</Transaction>
+    <Transaction>2021/08/06 23:59:22.000.403,C:\Users\Coliseu Dell\Documents\Embarcadero\Studio\Projects\spComponente.dproj=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\spComponente.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

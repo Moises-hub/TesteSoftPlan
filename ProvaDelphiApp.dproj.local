@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/27 08:34:45.000.997,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/23 10:07:13.000.703,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/26 13:34:22.000.774,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/05/04 09:08:47.000.694,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 15:21:46.000.712,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 15:22:56.000.907,C:\Users\Administrador\Documents\ProvaDelphiApp\UFrm_Principal.dfm=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/06 15:22:56.000.907,C:\Users\Administrador\Documents\ProvaDelphiApp\UFrm_Principal.pas=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 15:23:09.000.843,C:\Users\Administrador\Documents\ProvaDelphiApp\ProvaDelphiApp.dproj=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/06 15:23:43.000.585,=C:\Users\Administrador\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 15:24:01.000.122,C:\Users\Administrador\Documents\ProvaDelphiApp\spQuery.pas=C:\Users\Administrador\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 16:02:35.000.808,=C:\Users\Administrador\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 16:03:47.000.471,C:\Users\Administrador\Documents\ProvaDelphiApp\Uftarefa1.pas=C:\Users\Administrador\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 16:03:47.000.471,C:\Users\Administrador\Documents\ProvaDelphiApp\Uftarefa1.dfm=C:\Users\Administrador\Documents\ProvaDelphiApp\Unit1.dfm</Transaction>
+    <Transaction>2021/08/06 21:56:14.000.474,=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 21:57:05.000.338,C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\Unit1.pas=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\UfTarefa2.pas</Transaction>
+    <Transaction>2021/08/06 21:57:05.000.338,C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\Unit1.dfm=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\UfTarefa2.dfm</Transaction>
+    <Transaction>2021/08/06 22:56:25.705,=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 22:57:37.620,C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\UfTarefa3.pas=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2021/08/06 22:57:37.621,C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\UfTarefa3.dfm=C:\Users\Coliseu Dell\Documents\ProvaDelphiApp\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

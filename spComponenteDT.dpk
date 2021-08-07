@@ -1,0 +1,47 @@
+package spComponenteDT;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION OFF}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES ON}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE DEBUG}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  vcl,
+  vclwinx,
+  dbrtl,
+  vcldb,
+  FireDAC,
+  FireDACCommonDriver,
+  FireDACCommon,
+  VclSmp;
+
+contains
+  UFrm_Principal in 'UFrm_Principal.pas' {Frm_Principal},
+  Uftarefa1 in 'Uftarefa1.pas' {FTarefa1},
+  UfTarefa2 in 'UfTarefa2.pas' {fTarefa2},
+  UfTarefa3 in 'UfTarefa3.pas' {fTarefa3};
+
+end.
